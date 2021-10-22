@@ -1,1 +1,7 @@
-teste
+
+public void inserirCliente() {
+
+	select * from cliente;
+}
+
+id nome
