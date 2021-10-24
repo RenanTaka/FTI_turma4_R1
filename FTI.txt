@@ -4,4 +4,5 @@ public void inserirCliente() {
 	select * from cliente;
 }
 
-id nome
+id nomes
+12 Renan
